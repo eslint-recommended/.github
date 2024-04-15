@@ -1,3 +1,3 @@
 ## ESLint Recommended
 
-We are providing Recommended ESLint Shareable Configs
+We are providing shareable configs for ESLint.
