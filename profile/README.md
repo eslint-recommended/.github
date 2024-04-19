@@ -5,7 +5,7 @@ We are providing shareable configs for ESLint.
 ## Policies
 
 - Use the recommended settings for each plugin.
-- Do not include settings for specific packages (e.g. Lodash or Jest).
+- Do not use plugins for specific packages (e.g. Lodash or Jest).
 
 ## Packages
 
